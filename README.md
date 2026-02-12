@@ -34,7 +34,6 @@
 ---
 
 ## KPI Measures (DAX)
-```DAX
 Total Sales = SUM('superstore'[Sales])
 Total Profit = SUM('superstore'[Profit])
 Profit Margin = DIVIDE([Total Profit],[Total Sales],0)
