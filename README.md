@@ -2,8 +2,6 @@
 
 # 📊 Global Superstore Sales Dashboard — Power BI
 
----
-
 ## Project Objectives
 - Create KPI metrics to monitor business performance.
 - Analyze **Sales** and **Profit** trends over time.
