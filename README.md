@@ -1,6 +1,6 @@
 # DATA-ANALYST-INTERNSHIP-Elevate-Labs-Task-13
 
-# Global Superstore Sales Dashboard — Power BI
+# Global Superstore Sales Dashboard - Power BI
 
 ## Project Objectives
 - Create KPI metrics to monitor business performance.
