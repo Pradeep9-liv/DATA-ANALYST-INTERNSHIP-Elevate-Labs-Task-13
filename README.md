@@ -1,6 +1,6 @@
 # DATA-ANALYST-INTERNSHIP-Elevate-Labs-Task-13
 
-# 📊 Global Superstore Sales Dashboard — Power BI
+# Global Superstore Sales Dashboard — Power BI
 
 ## Project Objectives
 - Create KPI metrics to monitor business performance.
@@ -38,3 +38,21 @@
 Total Sales = SUM('superstore'[Sales])
 Total Profit = SUM('superstore'[Profit])
 Profit Margin = DIVIDE([Total Profit],[Total Sales],0)
+
+---
+
+## Dashboard Features
+- KPI Cards (Total Sales, Total Profit, Profit Margin)
+- Sales Trend Line Chart
+- Category Breakdown Bar Chart
+- Region Performance Map (Colored Bubbles)
+- Top 10 Products Table
+- Interactive Slicers (Region, Date, Category)
+- Insights Text Section
+
+---
+
+## Key Insights
+- Technology category generates the highest sales.
+- West region shows strong performance.
+- Top products contribute significantly to total revenue.
